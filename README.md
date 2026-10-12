@@ -76,7 +76,3 @@ Bagian perhitungan menjadi lebih sederhana setelah dipisahkan menjadi fungsi. Ru
 1. **Satu alasan utama menggunakan fungsi:** agar kode yang memiliki tugas tertentu dapat digunakan kembali tanpa menulis proses yang sama berulang kali.
 2. **Satu kesalahan yang saya temukan terkait parameter atau return:** perlu membedakan `print()` yang hanya menampilkan hasil dengan `return` yang mengirimkan nilai kembali kepada pemanggil fungsi.
 3. **Materi Pertemuan 1–7 yang perlu saya ulang untuk UTS:** perulangan, *nested loop*, fungsi, parameter, `return value`, dan *scope* variabel.
-
-## Catatan
-
-Lengkapi identitas, sesuaikan refleksi dengan pengalaman pengerjaan sendiri, dan perbarui tabel pengujian berdasarkan hasil yang benar-benar diperoleh. Cantumkan sumber atau bantuan yang berpengaruh terhadap solusi sesuai arahan modul.
