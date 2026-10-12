@@ -1,5 +1,6 @@
 # Pertemuan 07 — Fungsi Python
 
+| **Keterangan** | **Data** |
 |---|---|
 | **Nama** | Fikri Yustiawan |
 | **NIM** | 2225250075 |
