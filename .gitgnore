@@ -1,0 +1,10 @@
+# File sementara Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# File sementara editor
+.vscode/
+.idea/
