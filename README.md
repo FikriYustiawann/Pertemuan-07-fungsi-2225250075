@@ -1,10 +1,11 @@
 # Pertemuan 07 — Fungsi Python
 
-**Mata Kuliah:** Algoritma dan Pemrograman  
-**Nama:** ...  
-**NIM:** ...  
-**Kelas:** ...  
-**Pertemuan:** 07
+| **Keterangan** | **Data** |
+|---|---|
+| **Nama** | Fikri Yustiawan |
+| **NIM** | 2225250075 |
+| **Kelas** | 3-E |
+| **Jurusan** | Pendidikan Matematika |
 
 ## Tujuan
 
